@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Even - A super concise theme for Hugo</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Mar 2021 16:03:02 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://example.org/post/test/</link>
+      <pubDate>Wed, 17 Mar 2021 16:03:02 +0800</pubDate>
+      
+      <guid>http://example.org/post/test/</guid>
+      <description> this test
+  hello  </description>
+    </item>
+    
+    <item>
+      <title>Some Content</title>
+      <link>http://example.org/post/marddown%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95/</link>
+      <pubDate>Wed, 17 Mar 2021 11:38:30 +0800</pubDate>
+      
+      <guid>http://example.org/post/marddown%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95/</guid>
+      <description>标题 H1 H2 H6 blockquot 字体编辑 bold text | italicized text | delete text | 百度 脚注 Java是世上最好的语言1 列表 first item second item third item first item second item third item 学习markdown基本语法 用HUGO搭</description>
+    </item>
+    
+    <item>
+      <title>Some Content</title>
+      <link>http://example.org/post/some-content/</link>
+      <pubDate>Wed, 17 Mar 2021 11:38:30 +0800</pubDate>
+      
+      <guid>http://example.org/post/some-content/</guid>
+      <description>hello hugo  This is test hugo generate blog
+ </description>
+    </item>
+    
+  </channel>
+</rss>
