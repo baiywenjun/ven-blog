@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://example.org/sitemap.xml
+Sitemap: https://baiywenjun.github.io/ven-blog/sitemap.xml
